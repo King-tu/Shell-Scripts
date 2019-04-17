@@ -2,7 +2,7 @@
 
 num=0
 
-while [$num -lt 1]
+while [ $num -lt 1 ]
 do
   read -p "Please input a number: " num
 done
