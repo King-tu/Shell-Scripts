@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#
+# Program:
+#	Calculate the sum between 1 and the number entered by the user.
+# 2019/04/17	Kingtu	First release
+#
+
 num=0
 
 while [ $num -lt 1 ]
