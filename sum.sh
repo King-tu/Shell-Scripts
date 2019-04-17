@@ -1,5 +1,3 @@
-```shell
-
 #!/bin/bash
 
 num=0
