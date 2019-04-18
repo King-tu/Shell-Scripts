@@ -13,6 +13,8 @@ do
 	read -p "please input a number: " num
 done
 
+sum=0
+
 for i in `seq 1 $num`
 do
 	sum=$(($sum+$i))
