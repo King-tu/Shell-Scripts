@@ -6,9 +6,9 @@
 # 2019/04/18	kingtu	ver1.0
 #
 
-[ -d oldboy ] || mkdir -p oldboy
+[ -d /tmp/oldboy ] || mkdir -p /tmp/oldboy
 
-cd oldboy
+cd /tmp/oldboy
 
 for i in `seq 10`
 do
