@@ -15,7 +15,7 @@ done
 
 sum=0
 
-for i in `seq 1 $num`
+for i in `seq 1 $num`	#### `seq 1 $num` == $(seq 1 $num)
 do
 	sum=$(($sum+$i))
 done 
