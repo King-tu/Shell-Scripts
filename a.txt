@@ -1,0 +1,4 @@
+127.0.0.1 zhangsan
+127.0.0.1 wangxiaoer
+127.0.0.2 lisi
+127.0.0.3 wangwu
